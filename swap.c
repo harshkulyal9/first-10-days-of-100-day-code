@@ -5,9 +5,10 @@ int main(){
     int b;
     b=6;
     printf("%d\n%d\n",a,b);
-     a=7;
-     b=8;
+     a=6;
+     b=5;
     printf("%d\n%d\n",a,b);
     return 0;
+
 
 }
